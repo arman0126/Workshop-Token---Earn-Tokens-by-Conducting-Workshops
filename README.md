@@ -7,6 +7,8 @@ Participants can enroll in workshops and attend live sessions, providing instruc
 
 ## Contract Address
 0xF126999D7EbDB9Ca8fBB50Fb9919107Ab0b6D1d1
+![{B7C52C2C-7B8E-4293-A2F6-52567ED051CB}](https://github.com/user-attachments/assets/15da00ef-94a3-488d-b546-02f9cfcfbf3a)
+
 
 ## Project Vision
 The vision of **Workshop Token** is to create a decentralized ecosystem for learning and knowledge sharing, where instructors are incentivized for their time and effort in conducting workshops. Through this platform, we aim to:
