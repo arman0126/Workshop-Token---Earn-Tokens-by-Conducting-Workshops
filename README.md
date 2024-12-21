@@ -1,4 +1,4 @@
-#Workshop Token - Earn Tokens by Conducting Workshops
+##Workshop Token - Earn Tokens by Conducting Workshops
 
 ## Project Description
 The **Workshop Token** is a blockchain-based platform designed to reward instructors with tokens for conducting live workshops. It allows instructors to set up workshops, define their capacity, and reward themselves based on the number of participants. This decentralized approach ensures fair and transparent rewards for all parties involved, using blockchain technology to manage token distribution.
